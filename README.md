@@ -5,7 +5,7 @@ My nick diedyesterday and I am a newbie dev that likes developing games and webs
 
 [Overtanks Website (wiki)](https://Overtanks.com/wiki) - Made using NextJS
 
-PlaymanityMC - My minecraft server
+PlaymanityMC - Minecraft server with custom plugins?
 # 🌐 My Socials
 # 💻 My Tech Stack
 # My Github Stats/Trophies
