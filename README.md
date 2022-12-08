@@ -8,7 +8,7 @@ My nick diedyesterday and I am a newbie dev that likes developing games and webs
 PlaymanityMC - Minecraft server with custom plugins?
 # 🌐 My Socials
 # 💻 My Tech Stack
-# My Github Stats/Trophies
+# 📊 My Github Stats/Trophies
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diedyesterdaywashere&theme=java-dark&hide_border=true&border_radius=3)](https://git.io/streak-stats)
 # 💀 Other funny info about my profile
 [![](https://visitcount.itsvg.in/api?id=diedyesterdaywashere&label=Profile%20Views&icon=2&pretty=false)](https://visitcount.itsvg.in)
