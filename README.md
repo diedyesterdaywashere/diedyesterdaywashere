@@ -8,6 +8,7 @@ Adventure in the Nightmare - Game made on Construct 2
 PlaymanityMC - My minecraft server
 # 🌐 My Socials
 # 💻 My Tech Stack
+# My Github Stats/Trophies
 # 💀 Other funny info about my profile
 [![](https://visitcount.itsvg.in/api?id=diedyesterdaywashere&label=Profile%20Views&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
