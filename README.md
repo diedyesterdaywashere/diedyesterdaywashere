@@ -9,11 +9,11 @@ PlaymanityMC - Minecraft server with custom plugins?
 # 🌐 My Socials
 # 💻 My Tech Stack
 # 📊 My Github Stats/Trophies
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diedyesterdaywashere&theme=onedark&hide_border=true&include_all_commits=true&count_private=false)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diedyesterdaywashere&theme=onedark&hide_border=true&border_radius=3)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diedyesterdaywashere&theme=onedark&hide_border=true&border_radius=3)
 
-[![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diedyesterdaywashere&theme=onedark&hide_border=true&include_all_commits=true&count_private=false)]
+![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diedyesterdaywashere&theme=onedark&hide_border=true&include_all_commits=true&count_private=false)
 # 💀 Other funny info about my profile
 [![Profile Views](https://visitcount.itsvg.in/api?id=diedyesterdaywashere&label=Profile%20Views&icon=2&pretty=false)]
 
