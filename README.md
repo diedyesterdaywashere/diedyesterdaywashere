@@ -9,6 +9,7 @@ PlaymanityMC - My minecraft server
 # 🌐 My Socials
 # 💻 My Tech Stack
 # My Github Stats/Trophies
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diedyesterdaywashere&theme=java-dark&hide_border=true&border_radius=3)](https://git.io/streak-stats)
 # 💀 Other funny info about my profile
 [![](https://visitcount.itsvg.in/api?id=diedyesterdaywashere&label=Profile%20Views&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
