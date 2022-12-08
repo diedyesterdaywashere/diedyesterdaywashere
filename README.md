@@ -15,5 +15,5 @@ PlaymanityMC - Minecraft server with custom plugins?
 
 ![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diedyesterdaywashere&theme=onedark&hide_border=true&include_all_commits=true&count_private=false)
 # 💀 Other funny info about my profile
-[![Profile Views](https://visitcount.itsvg.in/api?id=diedyesterdaywashere&label=Profile%20Views&icon=2&pretty=false)]
+![Profile Views](https://visitcount.itsvg.in/api?id=diedyesterdaywashere&label=Profile%20Views&icon=2&pretty=false)
 
