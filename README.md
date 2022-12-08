@@ -3,7 +3,7 @@ My nick diedyesterday and I am a newbie dev that likes developing games and webs
 # 🤔 My Current Projects
 Adventure in the Nightmare - Game made on Construct 2
 
-[Overtanks Website (wiki)](Overtanks.com/wiki) - Made using NextJS
+[Overtanks Website (wiki)](https://Overtanks.com/wiki) - Made using NextJS
 
 PlaymanityMC - My minecraft server
 # 🌐 My Socials
