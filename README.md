@@ -11,7 +11,7 @@ PlaymanityMC - Minecraft server with custom plugins?
 # 📊 My Github Stats/Trophies
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diedyesterdaywashere&theme=java-dark&hide_border=true&border_radius=3)](https://git.io/streak-stats)
 
-[![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diedyesterdaywashere&theme=java-dark&hide_border=false&include_all_commits=true&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diedyesterdaywashere&theme=radical&hide_border=true&include_all_commits=true&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 # 💀 Other funny info about my profile
 [![](https://visitcount.itsvg.in/api?id=diedyesterdaywashere&label=Profile%20Views&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
