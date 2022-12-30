@@ -1,5 +1,5 @@
 # 👋 Hey!
-My nick diedyesterday and I am a newbie dev that likes developing games and websites!
+My nick is diedyesterday and I am a newbie dev that likes developing games and websites!
 # 🤔 My Current Projects
 [Adventure in the Nightmare](https://github.com/AITNTeam) - Game made on Construct 2
 
